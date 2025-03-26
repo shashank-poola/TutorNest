@@ -1,9 +1,9 @@
 # Bookmark
 🌟 Bookmark – Discover 🚀 
 
-Welcome to **TutorNest** – a modern platform designed to connect **students** with **expert tutors** effortlessly. 📚✨  
+Welcome to **Bookmark** – a modern platform designed to connect **students** with **expert tutors** effortlessly. 📚✨  
 
-## 🔥 Why TutorNest?  
+## 🔥 Why Bookmark?  
 ✅ **Find Top Tutors** – Search & connect with the best educators.  
 ✅ **Seamless Booking** – Easy scheduling & session management.  
 ✅ **Interactive Learning** – Engaging UI with a smooth experience.  
